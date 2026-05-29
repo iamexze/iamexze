@@ -1,5 +1,8 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a0028&height=280&text=E%20X%20Z%20E&fontSize=120&fontColor=cc44ff&animation=twinkling&fontAlignY=45)
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0010,60:1a0028,100:000000&height=280&section=header&text=E%20X%20Z%20E&fontSize=120&fontColor=cc44ff&animation=twinkling&fontAlignY=45&desc=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━&descSize=14&descAlignY=62&descColor=4a0088&stroke=cc44ff&strokeWidth=2)
+</div>
+
 
 </div>
 
