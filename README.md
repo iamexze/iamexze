@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amal Nath E A 👋</h1>
+<h1 align="center">Hi, I'm EXZE 👋</h1>
 <h3 align="center">Certified Cybersecurity Analyst · Penetration Tester · Flutter Developer</h3>
 
 <p align="center">
