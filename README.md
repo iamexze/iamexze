@@ -1,239 +1,210 @@
-<!-- HEADER BANNER -->
+<!-- SOLO LEVELING THEME — EXZE -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  ██████╗ ██╗    ██╗███╗   ██╗███████╗██████╗                 ║
-║  ██╔══██╗██║    ██║████╗  ██║██╔════╝██╔══██╗                ║
-║  ██████╔╝██║ █╗ ██║██╔██╗ ██║█████╗  ██║  ██║                ║
-║  ██╔═══╝ ██║███╗██║██║╚██╗██║██╔══╝  ██║  ██║                ║
-║  ██║     ╚███╔███╔╝██║ ╚████║███████╗██████╔╝                ║
-║  ╚═╝      ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝╚═════╝                 ║
-║                                                               ║
-║           [ AMAL NATH E A — SECURITY RESEARCHER ]            ║
-║                  < BREACH. SECURE. REPEAT. >                  ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Certified+Penetration+Tester+%F0%9F%94%90;Red+Team+%7C+VAPT+%7C+Ethical+Hacker;Bug+Bounty+Hunter+%F0%9F%90%9B;Flutter+Dev+%2B+Secure+Coder;CTF+Player+%7C+TryHackMe+%7C+HackTheBox)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amal-nath-246333220)
-[![Email](https://img.shields.io/badge/Email-Ping_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amalnath110101@gmail.com)
-
-</div>
-
----
-
-<!-- ABOUT SECTION -->
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="hacking gif"/>
-
-```python
-class AmalNath:
-    def __init__(self):
-        self.name       = "Amal Nath E A"
-        self.location   = "Kochi, Kerala 🇮🇳"
-        self.role       = "Certified Penetration Tester"
-        self.education  = "Diploma in Biomedical Engineering"
-        self.languages  = ["English", "Malayalam", "Hindi", "Tamil"]
-
-    def get_skills(self):
-        return {
-            "offensive" : ["VAPT", "Red Teaming", "OSINT", "SQLi", "XSS"],
-            "tools"     : ["BurpSuite", "Metasploit", "Nmap", "Wireshark"],
-            "dev"       : ["Flutter", "Python", "Dart", "Firebase"],
-            "platforms" : ["Linux", "BlackArch", "Parrot", "Kali"]
-        }
-
-    def current_mission(self):
-        return "Breaking things to make them stronger 🔓"
-
-me = AmalNath()
-print(me.current_mission())
-# Output: Breaking things to make them stronger 🔓
-```
-
-<br clear="right"/>
-
----
-
-<!-- STATS SECTION -->
-<div align="center">
-
-## ⚡ BATTLEFIELD STATS
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&include_all_commits=true&count_private=true&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=matrix&border_color=00FF41&bg_color=0d1117&title_color=00FF41&text_color=ffffff"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0033,100:0d0d0d&height=200&section=header&text=EXZE&fontSize=90&fontColor=b455f5&animation=twinkling&fontAlignY=55&desc=◈%20SHADOW%20MONARCH%20%E2%97%88%20SECURITY%20RESEARCHER%20◈&descSize=16&descAlignY=78&descColor=7b2fff)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=matrix&border=00FF41&ring=00FF41&fire=ff6600&currStreakLabel=00FF41&background=0d1117)](https://git.io/streak-stats)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=20&duration=2500&pause=800&color=9B30FF&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+%5D+New+Player+Has+Entered+the+Shadow+Realm...;%5B+ALERT+%5D+Rank+S+Hunter+Detected;Arise...+%F0%9F%94%AE;Vulnerability+Found.+Exploit+Initiated.+%F0%9F%92%80;You+Have+Been+Pwned.+Game+Over.)
+
+</div>
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=FF0000)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=7b2fff)](https://linkedin.com/in/amal-nath-246333220)
+[![Email](https://img.shields.io/badge/Contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=b455f5)](mailto:amalnath110101@gmail.com)
 
 </div>
 
 ---
 
-<!-- ARSENAL / TOOLS -->
-## 🛡️ ARSENAL
-
-<div align="center">
-
-### 🔴 Offensive Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF4500?style=for-the-badge&logoColor=white)
-![Kismet](https://img.shields.io/badge/Kismet-FF6347?style=for-the-badge&logoColor=white)
-
-### 🔵 Defensive / Recon
-![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-5C4EE5?style=for-the-badge&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-![Acunetix](https://img.shields.io/badge/Acunetix-E32227?style=for-the-badge&logoColor=white)
-![Invicti](https://img.shields.io/badge/Invicti-4B0082?style=for-the-badge&logoColor=white)
-
-### 💻 Development Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🐧 Operating Systems
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/ParrotOS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-</div>
-
----
-
-<!-- EXPERIENCE TIMELINE -->
-## 🗂️ MISSION HISTORY
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                      OPERATION TIMELINE                         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  [2025]  🔴 Penetration Tester Intern — ProTeam CRM             │
-│          ├── Delivered CVSS-scored vulnerability reports        │
-│          ├── OSINT via Maltego & Shodan                         │
-│          ├── Engineered custom payloads & exploits              │
-│          ├── VAPT on Competitive Cracker platform               │
-│          └── Blue Team collaboration for incident response      │
-│                                                                 │
-│  [2021]  💻 Application Developer — WeCodeLife Pvt. Ltd          │
-│  [2023]  ├── Built secure Flutter apps + Firebase Auth          │
-│          ├── CI/CD pipelines via GitHub Actions & Bitrise       │
-│          └── Secure code reviews & third-party API integration  │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- PROJECTS -->
-## 🚀 ACTIVE OPERATIONS
-
-<div align="center">
-
-| 🎯 Operation | 🔧 Tools Used | 💥 Impact |
-|---|---|---|
-| **AgroTech E-Commerce VAPT** | Burp Suite, Nessus | Critical SQLi & XSS → Patched |
-| **Competitive Cracker Platform** | Nmap, Wireshark | Ongoing VAPT & hardening |
-| **Android Bug Bounty** | Custom tools, Frida | Mobile attack surface testing |
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-## 🏆 CREDENTIALS & CERTS
-
+<!-- STATUS WINDOW -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                    CLEARANCE GRANTED ✓                       ║
-╠══════════════════════════════════════════════════════════════╣
-║  ✅  Certified Penetration Testing Professional (CPTP)       ║
-║  ✅  SQL Injection Attack                                     ║
-║  ✅  Penetration Testing — Cyber Security                     ║
-║  ✅  Introduction to Dark Web, Anonymity & Cryptocurrency     ║
-║  ✅  Dark Web Operations                                      ║
-║  ✅  CyberSecurity Fundamentals                               ║
-║  ✅  Android Bug Bounty Hunting: Hunt Like a Rat              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║            ░░░  S T A T U S   W I N D O W  ░░░                 ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   Hunter Name  :  E X Z E                                       ║
+║   Class        :  Shadow Monarch / Penetration Tester           ║
+║   Rank         :  ██████████  S-Class                           ║
+║   Location     :  Kochi, Kerala  [ Shadow Realm ]               ║
+║                                                                  ║
+║   ┌─ Passive Skills ─────────────────────────────────────┐      ║
+║   │  ◈ Arise          — Revive dead systems as allies    │      ║
+║   │  ◈ Domain         — VAPT & Red Team operations       │      ║
+║   │  ◈ Shadow Extract — OSINT & Threat Intelligence      │      ║
+║   │  ◈ Monarch's Aura — Intimidates firewalls on sight   │      ║
+║   └──────────────────────────────────────────────────────┘      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-<!-- HACKING PLATFORMS -->
-## 🎮 HACKING ARENAS
+<!-- DUNGEON / SKILL TREE -->
+
+## ⚔️ SHADOW ARMY — SKILLS & ARSENAL
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+### 🟣 Offensive Magic · Red Gate Operations
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1a0033?style=for-the-badge&logo=burpsuite&logoColor=FF4500)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logoColor=b455f5)
+![SQLmap](https://img.shields.io/badge/SQLmap-1a0033?style=for-the-badge&logoColor=FF4500)
+![Hydra](https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logoColor=b455f5)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1a0033?style=for-the-badge&logoColor=FF4500)
+![Kismet](https://img.shields.io/badge/Kismet-0d0d0d?style=for-the-badge&logoColor=b455f5)
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![CTF Player](https://img.shields.io/badge/CTF-Player-blueviolet?style=for-the-badge&logo=checkmarx&logoColor=white)
+### 🔵 Recon & Intel · Shadow Extraction
+![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logoColor=00ccff)
+![Wireshark](https://img.shields.io/badge/Wireshark-1a0033?style=for-the-badge&logo=wireshark&logoColor=00ccff)
+![Maltego](https://img.shields.io/badge/Maltego-0d0d0d?style=for-the-badge&logoColor=00ccff)
+![Shodan](https://img.shields.io/badge/Shodan-1a0033?style=for-the-badge&logoColor=00ccff)
+![Nessus](https://img.shields.io/badge/Nessus-0d0d0d?style=for-the-badge&logoColor=00ccff)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-1a0033?style=for-the-badge&logoColor=00ccff)
+
+### 🌑 Shadow Realm OS
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-1a0033?style=for-the-badge&logo=kalilinux&logoColor=b455f5)
+![BlackArch](https://img.shields.io/badge/BlackArch-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=b455f5)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1a0033?style=for-the-badge&logo=linux&logoColor=b455f5)
+
+### 💜 Spells · Dev Magic
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=9B30FF)
+![Flutter](https://img.shields.io/badge/Flutter-1a0033?style=for-the-badge&logo=flutter&logoColor=9B30FF)
+![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=9B30FF)
+![Firebase](https://img.shields.io/badge/Firebase-1a0033?style=for-the-badge&logo=firebase&logoColor=9B30FF)
+
+</div>
+
+---
+
+<!-- DUNGEON RAID LOG -->
+
+## 🏰 DUNGEON RAID LOG
+
+<div align="center">
+
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║              ⚠  DUNGEON CLEAR RECORD  ⚠                     ║
+  ╠══════╦════════════════════════════╦══════════╦═══════════════╣
+  ║ RANK ║ DUNGEON                   ║ THREAT   ║ STATUS        ║
+  ╠══════╬════════════════════════════╬══════════╬═══════════════╣
+  ║  S   ║ ProTeam CRM Red Gate      ║ CRITICAL ║ ✅ CLEARED   ║
+  ║  A   ║ AgroTech E-Commerce VAPT  ║ HIGH     ║ ✅ CLEARED   ║
+  ║  A   ║ Competitive Cracker VAPT  ║ HIGH     ║ 🔄 ONGOING  ║
+  ║  B   ║ Android Bug Bounty Hunt   ║ MEDIUM   ║ ✅ CLEARED   ║
+  ╠══════╬════════════════════════════╬══════════╬═══════════════╣
+  ║      ║ Vulnerabilities Found: SQLi, XSS, OSINT, Network     ║
+  ╚══════╩═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+## 📊 HUNTER STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0020&title_color=b455f5&icon_color=9B30FF&text_color=c0a0ff&border_color=3d0070&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0020&title_color=b455f5&text_color=c0a0ff&border_color=3d0070&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0020&ring=b455f5&fire=ff4500&currStreakLabel=b455f5&sideLabels=9B30FF&border=3d0070&stroke=3d0070)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <!-- ACTIVITY GRAPH -->
-## 📡 SIGNAL ACTIVITY
+
+## 🌑 SHADOW REALM ACTIVITY
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=matrix&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d0020&color=b455f5&line=7b2fff&point=ff4500&area=true&area_color=1a0033&hide_border=false&border_color=3d0070&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
-## 🐍 COMMIT SNAKE
+<!-- CERTIFICATIONS AS SYSTEM UNLOCK -->
+
+## 🔓 SYSTEM UNLOCKS · CERTIFICATIONS
 
 <div align="center">
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-> _To enable the snake: go to **Actions** tab in your profile repo → enable the included workflow._
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║           [ SKILL UNLOCK NOTIFICATIONS ]                     ║
+  ╠═══════════════════════════════════════════════════════════════╣
+  ║                                                               ║
+  ║  🔮  Certified Penetration Testing Professional              ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ║  🔮  SQL Injection Attack                                     ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ║  🔮  Penetration Testing — Cyber Security                    ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ║  🔮  Android Bug Bounty Hunting: Hunt Like a Rat             ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ║  🔮  Dark Web, Anonymity & Cryptocurrency                    ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ║  🔮  CyberSecurity Fundamentals                              ║
+  ║       ████████████████████████  100%  MASTERED               ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- VISITOR COUNTER -->
+<!-- ARENAS -->
+
+## ⚔️ HUNTING ARENAS
+
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=black&right_color=00FF41&left_text=Visitors)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active_Hunter-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active_Hunter-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+[![CTF](https://img.shields.io/badge/CTF_Player-Ranked-b455f5?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-Studied-7b2fff?style=for-the-badge)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Hunter-FF4500?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:0d0d0d&height=120&section=footer&text=ARISE&fontSize=40&fontColor=b455f5&animation=twinkling&fontAlignY=65)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=1a0033&right_color=7b2fff&left_text=Shadows+Watching)
 
 ```
-  ██████╗ ██╗   ██╗████████╗    ████████╗██╗  ██╗███████╗
- ██╔═══██╗██║   ██║╚══██╔══╝       ██╔══╝██║  ██║██╔════╝
- ██║   ██║██║   ██║   ██║          ██║   ███████║█████╗  
- ██║   ██║██║   ██║   ██║          ██║   ██╔══██║██╔══╝  
- ╚██████╔╝╚██████╔╝   ██║          ██║   ██║  ██║███████╗
-  ╚═════╝  ╚═════╝    ╚═╝          ╚═╝   ╚═╝  ╚═╝╚══════╝
-               M A T R I X
+      ░░  I alone am the monarch of all shadows.  ░░
+              — E X Z E —
 ```
-
-_"The more I study, the more insatiable do I feel my genius for it to be." — Ada Lovelace_
 
 </div>
